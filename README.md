@@ -1,4 +1,4 @@
-# Error Handling for SwiftUI
+# Error Handler for SwiftUI
 
 This microframework simplifies reporting errors in a SwiftUI application.
 
